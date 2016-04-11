@@ -1,0 +1,5 @@
+C:\Users\zorka\documents\visual studio 2015\Projects\Calculator\StringCalculator\bin\Debug\StringCalculator.dll
+C:\Users\zorka\documents\visual studio 2015\Projects\Calculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\zorka\documents\visual studio 2015\Projects\Calculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Users\zorka\documents\visual studio 2015\Projects\Calculator\StringCalculator\obj\Debug\StringCalculator.dll
+C:\Users\zorka\documents\visual studio 2015\Projects\Calculator\StringCalculator\obj\Debug\StringCalculator.pdb
